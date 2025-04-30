@@ -31,6 +31,8 @@ To verify our calculations, we cross-checked our annual returns against Bloomber
 3. Make some initial graphs with Matplotlib to explore data
 -> save the two monthly returns dataframes to csv for plotting more graphs outside of Matplotlib
 
+### Directory Overview:
+
 | Folder         | Description                                                                  | Link                 |
 |----------------|------------------------------------------------------------------------------|----------------------|
 | 📁 Charts       | Charts used in the final report                                              | [Charts](./Charts)     |
