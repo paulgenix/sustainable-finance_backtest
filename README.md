@@ -37,5 +37,5 @@ To verify our calculations, we cross-checked our annual returns against Bloomber
 | 📁 Analysis     | Monthly rebalancing, return computation, Sharpe ratio, drawdown, etc.        | [analysis](./analysis)   |
 | 📁 Data         | Raw and processed data used for visualizations and analysis                  | [data](./data)       |
 | 📁 Prep         | Data preparation: downloading, merging, and FX conversion                    | [prep](./prep)       |
-| 📊 Excel File   | Initial universe screening, ESG score attribution, weight optimizer (Solver), return analysis    | [excel](./Sustainable%20Finance%20Universe%20Research.xlsx) |
+| 📊 Excel   | Initial universe screening, ESG score attribution, weight optimizer (Solver), return analysis    | [excel](./Sustainable%20Finance%20Universe%20Research.xlsx) |
 
