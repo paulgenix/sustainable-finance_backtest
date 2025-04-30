@@ -30,3 +30,12 @@ To verify our calculations, we cross-checked our annual returns against Bloomber
 2. Compute monthly returns(for both benchmark and portfolio) taking into consideration monthly weights rebalancing(to account for tickers that IPO'd later than the backtest start)
 3. Make some initial graphs with Matplotlib to explore data
 -> save the two monthly returns dataframes to csv for plotting more graphs outside of Matplotlib
+
+| Folder         | Description                                                                  | Link                 |
+|----------------|------------------------------------------------------------------------------|----------------------|
+| 📁 Charts       | Charts used in the final report                                              | [Charts](./Charts)     |
+| 📁 Analysis     | Monthly rebalancing, return computation, Sharpe ratio, drawdown, etc.        | [analysis](./analysis)   |
+| 📁 Data         | Raw and processed data used for visualizations and analysis                  | [data](./data)       |
+| 📁 Prep         | Data preparation: downloading, merging, and FX conversion                    | [prep](./prep)       |
+| 📊 Excel File   | Initial universe screening, ESG score attribution, weight optimizer (Solver), return analysis    | [excel](./Sustainable%20Finance%20Universe%20Research.xlsx) |
+
