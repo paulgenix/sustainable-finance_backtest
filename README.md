@@ -35,7 +35,7 @@ To verify our calculations, we cross-checked our annual returns against Bloomber
 
 | Folder         | Description                                                                  | Link                 |
 |----------------|------------------------------------------------------------------------------|----------------------|
-| 📁 Charts       | Charts used in the final report                                              | [Charts](./charts)     |
+| 📁 Charts       | Charts used in the final report                                              | [charts](./Charts)     |
 | 📁 Analysis     | Monthly rebalancing, return computation, Sharpe ratio, drawdown, etc.        | [analysis](./analysis)   |
 | 📁 Data         | Raw and processed data used for visualizations and analysis                  | [data](./data)       |
 | 📁 Prep         | Data preparation: downloading, merging, and FX conversion                    | [prep](./prep)       |
